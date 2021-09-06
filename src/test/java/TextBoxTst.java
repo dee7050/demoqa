@@ -43,18 +43,5 @@ public class TextBoxTst {
          $(".modal-title").shouldHave(text("Thanks for submitting the form"));
          $(".table-responsive").shouldHave(text("Sem Dow"), text("dow@wu.rt"),text("28 March,2000"),text("Arts"),
                  text("Music"),text("p002.jpg"),text("Street34"),text("NCR Delhi"));
-
-
-         //$("#submit").click();
-
-
-
-
-
-
-
-
-
-
      }
 }
